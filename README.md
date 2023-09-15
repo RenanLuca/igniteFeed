@@ -31,7 +31,7 @@ Nesse módulo, foi criado uma aplicação React utilizando o Vite e aprenderemos
 ### 🗂 Faça um clone do projeto
 
 ```bash
-git clone https://github.com/goncadanilo/ignite-feed.git
+git clone https://github.com/RenanLuca/igniteFeed.git
 ```
 
 ### 📥 Instale as dependências
@@ -40,18 +40,12 @@ git clone https://github.com/goncadanilo/ignite-feed.git
 cd ignite-feed
 
 # Instale as dependências
-yarn
+yarn i
 ```
 
 ### ⚡ Inicie a aplicação
 ```bash
-yarn dev
+yarn run dev
 ```
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 Me adicione no [LinkedIn](https://www.linkedin.com/in/renanLuca/) :wave:
