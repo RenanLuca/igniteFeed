@@ -10,6 +10,7 @@
 
 <br>
 
+<img src="./src/assets/preview.png">
 
 
 ## 🚀 Tecnologias
