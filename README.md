@@ -5,6 +5,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://ignite-feed-coral-theta.vercel.app" target="_blank">Confira o site</a>
 </p>
 
 <br>
@@ -22,10 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse módulo, foi criado uma aplicação React utilizando o Vite e aprenderemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+Neste projeto, desenvolvi uma rede social como parte do curso Ignite. Ao seguir as aulas do primeiro módulo, pude explorar e compreender os principais fundamentos do React, incluindo a componentização, o gerenciamento de propriedades, estados, entre outros aspectos cruciais. Essa abordagem permitiu-me absorver o conteúdo de forma eficaz e sólida.
 
+## 🖼 Confira a Demo
+ <a href="https://ignite-feed-coral-theta.vercel.app" target="_blank">Confira o Site</a>
 
 ## 🔧 Como rodar
+
 
 ### 🗂 Faça um clone do projeto
 
