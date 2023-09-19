@@ -20,6 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [React JS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.figma.com)
 
 ## 💻 Projeto
 
